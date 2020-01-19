@@ -1,0 +1,1 @@
+export const RESOLUTIONS = ["100x100", "1024x776", "1280x720", "1920x1080"];

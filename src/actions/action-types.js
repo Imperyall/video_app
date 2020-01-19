@@ -1,0 +1,3 @@
+export const CHANGE_RESOLUTION = "CHANGE_RESOLUTION";
+export const TAKE_PHOTO = "TAKE_PHOTO";
+export const CHANGE_NAME = "CHANGE_NAME";
