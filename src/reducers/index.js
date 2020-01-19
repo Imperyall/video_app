@@ -35,7 +35,7 @@ export default (state = initialState, action) => {
       const name = createName("png");
 
       const currentPhoto = {
-        id: state.photos.length,
+        id,
         src: action.payload,
         name
       };
